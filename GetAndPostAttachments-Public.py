@@ -3,8 +3,6 @@ from requests.auth import HTTPBasicAuth
 import base64
 import sys
 
-#Testing changes
-
 SERVER_TICKET = sys.argv[1]
 CLOUD_TICKET = sys.argv[2]
 
